@@ -1,0 +1,16 @@
+#box{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: white;
+    left: 200px;
+    top: 200px;
+}
+body{
+    background-image: url(https://cdn.britannica.com/60/155360-050-3D76ADD3.jpg);
+}
+body img{
+    width: 170px;
+    height: 100px;
+}
+
